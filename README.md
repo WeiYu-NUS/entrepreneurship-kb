@@ -8,7 +8,7 @@ A comprehensive, searchable database of **3,511 papers** published in the three 
 
 Each paper has been processed through an AI-assisted pipeline that extracts structured information — research questions, key findings, theories, methods, variables, geographic context — and standardizes it into filterable, searchable categories.
 
-**[Live Demo →](https://amychina12.github.io/entrepreneurship-kb/)**
+**[Live Demo →](https://weiyu-nus.github.io/entrepreneurship-kb/)**
 
 ## Features
 
@@ -109,7 +109,7 @@ This database was built using an AI-assisted extraction and standardization pipe
 
 **Wei Yu**, Assistant Professor of Entrepreneurship, National University of Singapore (NUS)
 
-[Website](https://amychina12.github.io/weiyu/)
+[Website](https://weiyu-nus.github.io/weiyu/)
 
 ## License
 
